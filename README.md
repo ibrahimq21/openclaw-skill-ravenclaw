@@ -148,11 +148,3 @@ Examples:
 ---
 
 **Maintained by:** Ibrahim Qureshi (@ibrahimq21)
-=======
-# openclaw-skill-ravenclaw
-OpenClaw skill for Ravenclaw Email Bridge operations
->>>>>>> aa8fd2b211b7123a3a16c0642fc174e40422819d
-=======
-# openclaw-skill-ravenclaw
-OpenClaw skill for Ravenclaw Email Bridge operations
->>>>>>> aa8fd2b211b7123a3a16c0642fc174e40422819d
